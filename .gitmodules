@@ -22,3 +22,9 @@
 [submodule "XiaolingChen_chenx553_WebAdvJS_Fall16"]
 	path = XiaolingChen_chenx553_WebAdvJS_Fall16
 	url = https://github.com/SherlinC/XiaolingChen_chenx553_WebAdvJS_Fall16
+[submodule "JiyeonKang_dreamealist_WebAdvJS_Fall16"]
+	path = JiyeonKang_dreamealist_WebAdvJS_Fall16
+	url = https://github.com/dreamealist/JiyeonKang_dreamealist_WebAdvJS_Fall16
+[submodule "SeungWhanLee_lees569_WebAdvJS_Fall16"]
+	path = SeungWhanLee_lees569_WebAdvJS_Fall16
+	url = https://github.com/lees569/SeungWhanLee_lees569_WebAdvJS_Fall16
