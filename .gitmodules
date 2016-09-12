@@ -4,9 +4,6 @@
 [submodule "QinziTan_tanq336_WebAdvJS_Fall16"]
 	path = QinziTan_tanq336_WebAdvJS_Fall16
 	url = https://github.com/qinzitan/QinziTan_tanq336_WebAdvJS_Fall16
-[submodule "CourtneySnavely_snavc270_WebAdvJS_Fall16"]
-	path = CourtneySnavely_snavc270_WebAdvJS_Fall16
-	url = https://github.com/snavc270/CourtneySnavely_snavc270_WebAdvJS_Fall16
 [submodule "RoxyFarkas_farkr005_WebAdvJs_Fall16"]
 	path = RoxyFarkas_farkr005_WebAdvJs_Fall16
 	url = https://github.com/rsfarkas/RoxyFarkas_farkr005_WebAdvJs_Fall16
@@ -34,3 +31,6 @@
 [submodule "DianRachmawati_rachd852_WebAdvJS_Fall16"]
 	path = DianRachmawati_rachd852_WebAdvJS_Fall16
 	url = https://github.com/beneffin/DianRachmawati_rachd852_WebAdvJS_Fall16
+[submodule "hannahekman_ekmah864_WebAdvJS_Fall16"]
+	path = hannahekman_ekmah864_WebAdvJS_Fall16
+	url = https://github.com/ekmanh/hannahekman_ekmah864_WebAdvJS_Fall16
