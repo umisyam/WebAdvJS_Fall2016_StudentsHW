@@ -31,3 +31,6 @@
 [submodule "hannahekman_ekmah864_WebAdvJS_Fall16"]
 	path = hannahekman_ekmah864_WebAdvJS_Fall16
 	url = https://github.com/ekmanh/hannahekman_ekmah864_WebAdvJS_Fall16
+[submodule "KarlaPolo_KayPolo_WevAdvJS_Fall16"]
+	path = KarlaPolo_KayPolo_WevAdvJS_Fall16
+	url = https://github.com/KayPolo/KarlaPolo_KayPolo_WevAdvJS_Fall16
